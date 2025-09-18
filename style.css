@@ -3,12 +3,12 @@ body {
   justify-content: center;
   align-items: center;
   height: 100vh;
-  background: #f0f4f8;
+  background: #d0d4d8;
   font-family: Arial, sans-serif;
 }
 
 .calculator {
-  background: #8f8c8c;
+  background: #676666;
   padding: 20px;
   border-radius: 15px;
   box-shadow: 0 4px 8px rgba(0,0,0,0.2);
